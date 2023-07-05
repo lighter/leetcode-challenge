@@ -6,3 +6,4 @@
 |2020/06/14|Cheapest Flights Within K Stops|[link](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|
 |2020/06/15|Search in a Binary Search Tree|[link](https://leetcode.com/problems/search-in-a-binary-search-tree/)|
 |2020/06/16|Validate IP Address|[link](https://leetcode.com/problems/validate-ip-address/)|
+|2020/06/19|Longest Duplicate Substring|[link](https://leetcode.com/problems/longest-duplicate-substring/)|
